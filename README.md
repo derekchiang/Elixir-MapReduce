@@ -49,3 +49,8 @@ A typically workflow looks like this:
 15. After the controller receives messages from all reducers, it shuts down the reducer supervision tree.
 
 16. Then the controller sits idlely, waiting for another task.
+
+
+## License
+
+[WTFPL](http://www.wtfpl.net/about/).
